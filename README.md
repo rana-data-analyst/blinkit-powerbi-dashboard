@@ -27,3 +27,7 @@ This project uses Power BI to analyze Blinkit sales data and identify key busine
 - Grocery Stores generated the highest sales among outlet types.
 - Fruits and Vegetables were among the highest-selling item categories.
 - Outlet establishment trends show changes in sales performance over time.
+
+## Dashboard Preview
+
+![Blinkit Sales Analysis Dashboard](Screenshot-2026-08-20-151820.png)
