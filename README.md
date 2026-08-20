@@ -30,4 +30,4 @@ This project uses Power BI to analyze Blinkit sales data and identify key busine
 
 ## Dashboard Preview
 
-![Blinkit Sales Analysis Dashboard](Screenshot 2026-08-20 151820.png)
+![Blinkit Sales Analysis Dashboard](blinkit-dashboard.png)
