@@ -20,6 +20,15 @@ This project uses Power BI to analyze Blinkit sales data and identify key busine
 - Total Sales: $1.2M
 - Average Rating: 3.92
 
+  ## Business Questions
+
+- What is the overall sales performance?
+- Which outlet locations generate the highest sales?
+- How does outlet size affect sales performance?
+- Which outlet types contribute the most to total sales?
+- Which item categories generate the highest sales?
+- How has outlet performance changed over time?
+
 ## Business Insights
 
 - Tier 3 outlets generated the highest total sales.
