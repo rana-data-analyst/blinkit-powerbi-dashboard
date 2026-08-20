@@ -13,14 +13,14 @@ This project uses Power BI to analyze Blinkit sales data and identify key busine
 - Data Cleaning
 - Data Analysis
 
-- ## Key KPIs
+## Key KPIs
 
 - Average Sales: 140.99
 - Total Items Sold: 9K
 - Total Sales: $1.2M
 - Average Rating: 3.92
 
-  ## Business Questions
+## Business Questions
 
 - What is the overall sales performance?
 - Which outlet locations generate the highest sales?
